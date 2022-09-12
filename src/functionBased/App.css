@@ -56,6 +56,12 @@ body {
     font-weight: 600;
     margin-right: 10px;
   }
+
+  .input-submit svg {
+    color: #42b6b6;
+    font-size: 24px;
+    margin-top: 2px;
+  }
   
   .input-text,
   .input-submit {
