@@ -6,11 +6,10 @@
 - follow the tutorial: React Tutorial From Scratch: A Step-by-Step Guide (2021), where will develop a To do app!
 
 ### Learning objectives
+
 Use JavaScript events.
 Use React life cycle methods.
 Understand the mechanism of lifting state up.
-
---
 
 ## Built With
 
@@ -20,7 +19,7 @@ Understand the mechanism of lifting state up.
 
 To get a local copy up and running follow these simple example steps.
 
-````
+``
 git clone https://github.com/PRATAP-KUMAR/react-tutorial
 cd react-tutorial
 npm start

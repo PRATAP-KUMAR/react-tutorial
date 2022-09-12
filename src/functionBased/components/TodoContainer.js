@@ -63,7 +63,7 @@ class TodoContainer extends React.Component {
 
     render() {
         return (
-            <div classname="container">
+            <div className="container">
                 <div className="inner">
                     <Header />
                     <InputTodo
