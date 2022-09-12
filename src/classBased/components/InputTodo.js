@@ -1,7 +1,7 @@
 import React from 'react'
 
 const InputTodo = () => {
-    retrun (
+    return (
     <div></div>
     )
 }
